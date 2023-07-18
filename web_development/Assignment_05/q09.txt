@@ -1,0 +1,1 @@
+fetch method is used to request data form a server.

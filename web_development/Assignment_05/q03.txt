@@ -1,0 +1,2 @@
+setTimout - it allow us to run function after a interval of time.
+setInterval - it allow to run function after interval of time and after than repeatedly at that interval.

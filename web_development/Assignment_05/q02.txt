@@ -1,0 +1,1 @@
+web api - help to provide complex functionality easily. It hide complex code and provide easy syntax to use.

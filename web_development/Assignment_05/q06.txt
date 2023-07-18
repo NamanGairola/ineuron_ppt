@@ -1,0 +1,2 @@
+Promise represent that a asynchronous operation will be completed or fail.
+3 methods are - then, catch and finally.

@@ -1,0 +1,2 @@
+Synchronous work one after the other . It execute one code at a time.
+Aynchronous - In this task is not dependend on exection of other task.

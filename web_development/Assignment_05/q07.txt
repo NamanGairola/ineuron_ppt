@@ -1,0 +1,1 @@
+Aync and awai allow us to use promise in javascript and make operation Synchronous.

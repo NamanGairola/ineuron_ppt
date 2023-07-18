@@ -1,0 +1,1 @@
+In JavaScript asynchronous programming is solved using Promises.

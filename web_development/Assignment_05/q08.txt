@@ -1,0 +1,1 @@
+Purpose of try and catch block is to catch the exception and deal with it.
