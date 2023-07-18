@@ -1,0 +1,1 @@
+Hoisting is moving all declartion at the top of of scope of code before execution.

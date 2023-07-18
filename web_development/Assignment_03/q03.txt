@@ -1,0 +1,2 @@
+let allows access of variable only inside the block in which it is declared.
+var allows access of variable throughout the funciton.

@@ -1,0 +1,5 @@
+html tag - they are used to hold html element
+ex - <br>
+attribute - HTML attributes are used to describe the characteristic of an HTML element in detail.
+ex - <p align="center">para</p>
+align is attribute in above exaple

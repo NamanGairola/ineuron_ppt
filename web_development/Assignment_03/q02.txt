@@ -1,0 +1,1 @@
+Temporal Dead zone is the area of the block where variable is inacessable until computer intialises it.

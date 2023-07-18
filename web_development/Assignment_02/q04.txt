@@ -1,0 +1,3 @@
+inline - it takes space as much as content in it.
+block - it takes whole width and height and width properties take affect in it.
+inline-block - it has properties of both inline and block. It takes width of only content and height and width properties take affect in it.

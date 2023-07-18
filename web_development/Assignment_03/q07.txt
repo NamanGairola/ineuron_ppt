@@ -1,0 +1,2 @@
+map - return a new array after performing operation.
+foreach - does not return a new array after performing operations.

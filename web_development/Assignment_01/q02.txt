@@ -1,0 +1,1 @@
+Semantic tag make better defining the different section and layout of the webpage. It make web browser and search engine to better interpret things.

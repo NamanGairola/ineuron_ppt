@@ -1,0 +1,2 @@
+Simple selector - Element selector, Id selector, class selector.
+Group selector - Universal selector, attirbute selector , sudo-class selector, sudo-element selector.

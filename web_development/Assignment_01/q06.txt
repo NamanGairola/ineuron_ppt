@@ -1,0 +1,6 @@
+Cleaner Code Structure
+Cross-Browser Compatibility
+Audio and Video Tags
+Offline Browsing
+No More Cookies 
+Canvas for Animation and Game Development

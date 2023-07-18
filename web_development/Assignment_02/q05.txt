@@ -1,0 +1,2 @@
+border-box - In this height, width, padding and border are present.
+content-box - In this only height and width are present.

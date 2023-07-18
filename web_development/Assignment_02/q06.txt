@@ -1,0 +1,1 @@
+z-index - it controls the stacking level of overlapping elements. Element with greater number of z-index is on top.

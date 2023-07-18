@@ -1,0 +1,1 @@
+It is a box that wrap all html element. It consist of margin, border, padding and actual content.

@@ -1,0 +1,1 @@
+<!Doctype html> is not an html tag.It is a declartion which tell about the type of document.

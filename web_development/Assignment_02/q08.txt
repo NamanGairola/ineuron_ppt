@@ -1,0 +1,4 @@
+relative - top, bottom, left and right properties adjust from original position.
+absolute - top, bottom, left and right properties adjust from position of the parent.
+sticky - after some scrolling they stick to particular positon.
+fixed - they are in a fixed place in viewport.

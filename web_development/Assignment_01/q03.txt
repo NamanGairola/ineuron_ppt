@@ -1,0 +1,4 @@
+html tag - they are used to hold html element
+ex - <br>
+html element - they are used for holding content
+ex - <b>bold</b>
